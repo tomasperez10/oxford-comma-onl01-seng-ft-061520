@@ -5,6 +5,6 @@ if array.size == 1
 elsif array.size == 2
   return array.join(" and ")
 else
-  return 
+  return array[]
 
 end
