@@ -4,4 +4,5 @@ array.join
 
 array.join(" and ")
 
+array.join(" , ")
 end
